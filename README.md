@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavraj1720" alt="pranavraj1720" /></a> </p>
 
 
-- 🔭 I’m currently working on [Airline Management System - Tkinter Project](https://github.com/pranavraj1720/AMS-Airline-Mangement-System)
+- 🔭 I’m currently working on [waves-propagation-matplotlib](https://github.com/pranav07-git/waves-propagation-matplotlib)
 
 - 🌱 I’m currently learning **JavaScript**
 
